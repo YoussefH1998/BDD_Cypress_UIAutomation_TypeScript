@@ -1,0 +1,25 @@
+{
+  "name": "cypresstypescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run:chrome": "cypress run -- browser chrome",
+    "cypress:smoke": "cypress run --env TAGS=\"@Smoke\"",
+    "cypress:products": "cypress run --env TAGS=\"@Products\""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.2",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.2",
+    "cypress": "^10.8.0",
+    "jquery": "^3.7.1",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/cypress": "^1.1.3"
+  }
+}

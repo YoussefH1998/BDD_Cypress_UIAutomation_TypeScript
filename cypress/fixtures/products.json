@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Brocolli - 1 Kg",
+    "price": 120,
+    "image": "./images/broccoli.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 2,
+    "name": "Cauliflower - 1 Kg",
+    "price": 60,
+    "image": "./images/cauliflower.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 3,
+    "name": "Cucumber - 1 Kg",
+    "price": 48,
+    "image": "./images/cucumber.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 4,
+    "name": "Beetroot - 1 Kg",
+    "price": 32,
+    "image": "./images/beetroot.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 5,
+    "name": "Carrot - 1 Kg",
+    "price": 56,
+    "image": "./images/carrots.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 6,
+    "name": "Tomato - 1 Kg",
+    "price": 16,
+    "image": "./images/tomato.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 7,
+    "name": "Beans - 1 Kg",
+    "price": 82,
+    "image": "./images/beans.jpg",
+    "category": "vegetables"
+  },
+  {
+    "id": 8,
+    "name": "Brinjal - 1 Kg",
+    "price": 35,
+    "image": "./images/brinjal.jpg",
+    "category": "vegetables"
+  }
+]
